@@ -4,6 +4,7 @@
     <option name="projectPerEditor">
       <map>
         <entry key="MainWindow.axaml" value="GymManagementSystem.csproj" />
+        <entry key="Styles/AppDefaultStyles.axaml" value="GymManagementSystem.csproj" />
       </map>
     </option>
   </component>
